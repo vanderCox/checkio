@@ -1,11 +1,4 @@
 def count_neighbours(grid, row, col):
-    nGrid = []
-
-    for i in range(1,3):
-        for j in range(1,3):
-            pass
-
-
     return 0
 
 
